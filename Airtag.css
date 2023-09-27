@@ -1,0 +1,308 @@
+body{
+	margin: 0 auto;
+}
+nav{
+	display: flex;
+	  position: -webkit-sticky; /* Safari */
+	  position: sticky;
+	  top: 0;
+	  /* background-color: green; */
+	  /* border: 2px solid #4CAF50; */
+	  z-index: 99999;
+	  width: 100%;
+}
+.Airtag{
+	
+}
+.Airtag-tp{
+	width: 100%;
+	
+	height: 850px;
+	
+	background:url(130.png) no-repeat  bottom;
+	position: relative;
+	/* top: 30px; */
+}
+
+.Airtag-tp-txt{
+	font-size: 64px;
+	text-align: center;
+	position: relative;
+	top:10%
+}
+.Airtag-js-bottom ,.Airtag-js-bottom2 ,.Airtag-js-bottom3,.Airtag-js-bottom4,.Airtag-js-bottom5,.Airtag-js-bottom5-b-tp{
+	width:100%;
+	 height: 850px;
+}
+
+.Airtag-js{
+	width: 100%;
+	height: 1200px;
+	background:url(131.png) no-repeat ; 
+	 position: relative;
+	top: 30px;
+}
+.Airtag-js-bottom{
+	width: 100%;
+	background:url(131.png) no-repeat;
+	position: relative;
+	bottom: 300px;
+}
+.Airtag-js-bottom2{
+	width:100%;
+	height: 1200px;
+	background:url(132.png) no-repeat;
+	float: left;
+	position: relative;
+	bottom: 550px;
+	
+	
+	
+}
+.Airtag-js-bottom3{
+width:100%;
+	background:url(133.png) no-repeat;
+	/* margin-top: 400px; */
+	
+	
+}
+.Airtag-js-bottom4{
+	width: 100%;
+	background:url(134.png) no-repeat;
+	position: relative;
+	bottom: 400px;
+	
+	
+}
+.Airtag-js-bottom5{
+	height: 600px;
+	/* background: url(图4.png) no-repeat 0 0/50%; */
+	
+	position: relative;
+	left: 60%;
+	
+	
+	 }
+.Airtag-js-bottom5-txt{
+           width: 100%;
+		   height: 1200px;
+		   background:url(135.png) no-repeat;
+	       position: relative;
+		   bottom: 450px;
+}
+.Airtag-js-bottom5-b-txt1{
+	width:100%;
+	height: 2000px;
+	  background:url(135.png) no-repeat;
+	  position: relative;
+	  right: 10px;
+	  bottom: 1650px;
+}
+.Airtag-js-bottom5-b-tp{
+	width: 100%;
+	height:500px;
+	background:ur;
+	margin-top: 20px;
+	position: relative;
+	/* right: 18%; */
+	bottom: 610px;
+}
+.Airtag-js-bottom5-b-tp1{
+	width: 100%;
+	height: 1200px;
+	background:url(136.png) no-repeat;
+position: relative;
+	bottom: 3430px;
+}
+
+/* 了不得 */
+.Airtag-js-bottom5-b-txt2{
+	width:100%;
+	height: 1200px;
+	background:url(137.png) no-repeat;
+	position: relative;
+	bottom: 3700px;
+}
+
+/* 微距图片 */
+.Airtag-js-bottom5-b-tp2{
+	               width: 100%;
+				   height: 1200PX;
+				   background:url(138.png) no-repeat;
+position: relative;
+	bottom: 4220px;
+}
+.Airtag-js-bottom5-b-txt3{
+	width:100%;
+	height: 1000px;
+
+	background:url(139.png) no-repeat;
+	position: relative;
+	bottom: 4550px;
+	
+}
+/* 黑盒子开始 */
+.black-box1{
+	height: 3000px;
+	width: 100%;
+	background:#2e2e3a;
+	position: relative;
+	bottom: 2650px;
+}
+.black-box{
+	width: 100%;
+	height: 2000px;
+	background: blue;
+}
+
+}
+ .hy{
+	width: 50%;
+	height: 100%;
+	/* background:url(大手指下方男人.png) ; */
+    /* float: right; */
+}
+.hy-l{
+	width: 100%;
+	height:1200px;
+	background:url(140.png) no-repeat;
+	position: relative;
+	bottom: 4650px;
+
+}
+.hy-2{
+	width: 100%;
+	height: 1500px;
+	background:url(141.png) no-repeat;
+	clear: both;
+	position: relative;
+	bottom: 5000px;
+}
+.hy-3{
+    width: 100%;
+	height: 1500px;
+	background:url(142.png) no-repeat center;
+    position: relative;
+	bottom: 5800px;
+}
+.hy-4{
+	width: 100%;
+	height: 1200px;
+	background:url(143.png) no-repeat center;
+   position: relative;
+   bottom: 6400px;
+}
+.hy-5{
+	width: 100%;
+	height: 1200px;
+	background:url(144.png) no-repeat center;
+	position: relative;
+	bottom:6500px;
+}
+.hy-6{
+     	width: 100%;
+		height: 1200px;
+		background:url(145.png) no-repeat center;
+	    position: relative;
+		bottom:6800px;
+	
+}
+.hy-7{
+	width: 100%;
+	height: 1200px;
+	background:url(121.png) no-repeat center;
+	position: relative;
+	bottom:7350px;
+}
+.hy-8{
+	width: 100%;
+	height: 1200px;
+	background:url(122.png) no-repeat center;
+	position: relative;
+	bottom:7750px;
+}
+.hy-9{
+	width: 100%;
+	height: 1200px;
+	background:url(123.png) no-repeat center;
+	position: relative;
+	bottom:8050px;
+}
+.hy-10{
+	width: 100%;
+	height: 1200px;
+	background:url(124.png) no-repeat center;
+	position: relative;
+	bottom:8350px;
+}
+.hy-11{
+	width: 100%;
+	height: 1200px;
+	background:url(125.png) no-repeat center;
+	position: relative;
+	bottom:8950px;
+}
+.hy-12{
+	width: 100%;
+	height: 1200px;
+	background:url(126.png)no-repeat center;
+	position: relative;
+	bottom:9350px;
+}
+/* .hy-13{
+	width: 100%;
+	height: 1200px;
+	background:url(70.png) no-repeat center;
+	position: relative;
+	bottom:9690px;
+}
+.hy-14{
+	width: 100%;
+	height: 1200px;
+	background:url(71.png) no-repeat center;
+	position: relative;
+	bottom:10000px;
+}
+.hy-15{
+	width: 100%;
+	height: 1200px;
+	background:url(72.png) no-repeat center;
+	position: relative;
+	bottom:10500px;
+}
+.hy-16{
+	width: 100%;
+	height: 1200px;
+	background:url(73.png) no-repeat center;
+	position: relative;
+		bottom:11000px;
+}
+.hy-17{
+	width: 100%;
+	height: 1200px;
+	background:url(74.png) no-repeat center;
+	position: relative;
+	bottom:11500px;
+}
+.hy-18{
+	width: 100%;
+	height: 1200px;
+	background:url(75.png) no-repeat center;
+	position: relative;
+	bottom:12000px;
+
+}
+.hy-19{
+	width: 100%;
+	height: 1200px;
+	background:url(76.png) no-repeat center;
+	position: relative;
+	bottom:12500px;
+}
+.hy-20{
+	width: 100%;
+	height: 1200px;
+	background:url(77.png) no-repeat center;
+	position: relative;
+	bottom:12900px;
+} */

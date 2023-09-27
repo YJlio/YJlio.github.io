@@ -1,0 +1,125 @@
+*{
+
+		text-decoration: none;
+
+		margin: 0 auto;
+
+
+}body{
+	/* background: #ddd; */
+}
+
+nav{
+	display: flex;
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+      /* background-color: green; */
+      /* border: 2px solid #4CAF50; */
+}
+a{
+
+	font-size:20px;
+
+}
+
+a:hover{
+
+
+	text-decoration: underline;
+
+}
+
+/* 第一行导航栏 */
+
+nav{
+
+	width:100%;
+
+	height: 71px;
+
+	background:#333333;
+
+	margin: 0 auto;
+
+	}
+nav a{
+
+	
+
+	width: 6%;
+
+	height: 50px;
+
+    line-height: 70px;
+
+	color:#cacaca;
+
+ 
+
+	
+
+/* text-align: center; */
+
+
+
+}
+
+nav a:hover{
+
+	color: #ececec;
+
+}
+
+.box{
+	width:100%;
+	height:3000px;
+}
+.box .Iphone1,.box .Iphone2,.box .Iphone13,.box .Iphone12,.box .Iphone3,.box .Iphone-bottom,.box .Iphone4,.box .Iphone5,.box .Iphone10,.box .Iphone11,.box .Iphone6,.box .Iphone7,.box .Iphone8,.box .Iphone9{
+	width: 100%;
+	height: 1000px;
+}
+.box .Iphone1{
+	
+	background:url(iphone1.png) no-repeat;
+}
+.box .Iphone2{
+	background:url(iphone2.png) no-repeat;
+}
+.box .Iphone3{
+	background:url(iphone3.png) no-repeat;
+}
+.box .Iphone4{
+	background:url(iphone4.png) no-repeat;
+}
+.box .Iphone5{
+	background:url(iphone5.png) no-repeat;
+	
+}
+.box .Iphone6{
+	background:url(iphone6.png) no-repeat;
+}
+.box .Iphone7{
+	background: url(iphone7.png) no-repeat;
+}
+.box .Iphone8{
+	background:url(iphone8.png) no-repeat;
+}
+.box .Iphone9{
+	background:url(iphone9.png) no-repeat;
+}
+.box .Iphone10{
+	background:url(iphone10.png) no-repeat;
+}
+.box .Iphone11{
+	background:url(iphone11.png) no-repeat;
+}
+.box .Iphone12{
+	background:url(iphone12.png) no-repeat;
+}
+.box .Iphone13{
+	background:url(iphone13.png) no-repeat;
+}
+.box .Iphone-bottom{
+	background:url(iphone14.png) no-repeat;
+}

@@ -1,0 +1,195 @@
+body{
+	margin: 0 auto;
+}
+nav{
+	display: flex;
+	  position: -webkit-sticky; /* Safari */
+	  position: sticky;
+	  top: 0;
+	  /* background-color: green; */
+	  /* border: 2px solid #4CAF50; */
+	  z-index: 99999;
+	  width: 100%;
+}
+.AirPods{
+	
+}
+.AirPods-tp{
+	width: 100%;
+	
+	height: 1000px;
+	
+	background:url(001.png) no-repeat;
+	position: relative;
+	top: 30px;
+}
+
+.AirPods-tp-txt{
+	font-size: 64px;
+	text-align: center;
+	position: relative;
+	top:10%
+}
+.AirPods-js-bottom ,.AirPods-js-bottom2 ,.AirPods-js-bottom3,.AirPods-js-bottom4,.AirPods-js-bottom5,.AirPods-js-bottom5-b-tp{
+	width:100%;
+	 height: 850px;
+}
+
+.AirPods-js{
+	width: 100%;
+	height: 1200px;
+	background:url(002.png) no-repeat ; 
+	 position: relative;
+	 top: 30px;
+}
+.AirPods-js-bottom{
+	background:url(003.png) no-repeat;
+	position: relative;
+	bottom: 400px;
+}
+.AirPods-js-bottom2{
+	width:100%;
+	background:url(004.png) no-repeat;
+	float: left;
+	position: relative;
+	bottom: 400px;
+	
+	
+	
+}
+.AirPods-js-bottom3{
+width:100%;
+	background:url(32.png) no-repeat;
+	margin-top: 450px;
+	
+	
+}
+.AirPods-js-bottom4{
+	width: 100%;
+	background:url(33.png) no-repeat;
+	position: relative;
+	margin-top: ;
+	bottom: 200px;
+	
+	
+}
+.AirPods-js-bottom5{
+	height: 600px;
+	/* background: url(图4.png) no-repeat 0 0/50%; */
+	
+	position: relative;
+	left: 60%;
+	
+	
+	 }
+.AirPods-js-bottom5-txt{
+           width: 100%;
+		   height: 1200px;
+		   background:url(34.png) no-repeat;
+	       position: relative;
+		   bottom: 420px;
+}
+.AirPods-js-bottom5-b-txt1{
+	width:100%;
+	height: 1200px;
+	  background:url(35.png) no-repeat;
+	  position: relative;
+	  right: 10px;
+	  bottom: 1550px;
+}
+.AirPods-js-bottom5-b-tp{
+	width: 100%;
+	height:500px;
+	background:ur;
+	margin-top: 20px;
+	position: relative;
+	/* right: 18%; */
+	bottom: 610px;
+}
+.AirPods-js-bottom5-b-tp1{
+	width: 100%;
+	height: 1200px;
+	background:url(36.png) no-repeat;
+position: relative;
+	bottom: 2650px;
+}
+
+/* 了不得 */
+.AirPods-js-bottom5-b-txt2{
+	width:100%;
+	height: 1200px;
+	/* background:url(37.png)no-repeat; */
+	position: relative;
+	bottom: 2630px;
+}
+
+/* 微距图片 */
+.AirPods-js-bottom5-b-tp2{
+	               width: 100%;
+				   height: 1200PX;
+				   background:url(38.png) no-repeat;
+position: relative;
+	bottom: 4430px;
+}
+.AirPods-js-bottom5-b-txt3{
+	width:100%;
+	height: 1000px;
+
+	background:url(39.png) no-repeat;
+	position: relative;
+	bottom: 4750px;
+	
+}
+/* 黑盒子开始 */
+.black-box1{
+	height: 3000px;
+	width: 100%;
+	/* background:#2e2e3a; */
+	position: relative;
+	bottom: 2750px;
+}
+.black-box{
+	width: 100%;
+	height: 2000px;
+	background: blue;
+}
+
+}
+ .hy{
+	width: 50%;
+	height: 100%;
+	/* background:url(大手指下方男人.png) ; */
+    /* float: right; */
+}
+.hy-l{
+	width: 100%;
+	height:1200px;
+	background:url(40.png) no-repeat;
+	position: relative;
+	bottom: 4870px;
+
+}
+.hy-2{
+	width: 100%;
+	height: 1200px;
+	background:url(41.png) no-repeat;
+	clear: both;
+	position: relative;
+	bottom: 5200px;
+}
+.hy-3{
+    width: 100%;
+	height: 1200px;
+	background:url(42.png) no-repeat center;
+    position: relative;
+	bottom: 6000px;
+}
+.hy-4{
+	width: 100%;
+	height: 1200px;
+	background:url(43.png) no-repeat center;
+   position: relative;
+   bottom: 6400px;
+}
+
+
