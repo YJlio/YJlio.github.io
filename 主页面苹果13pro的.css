@@ -1,0 +1,279 @@
+.iPhone13Pro{
+
+}
+
+nav{
+
+	position: -webkit-sticky; /* Safari */
+
+	position: sticky;
+
+	top: 0;
+
+	display: flex;
+
+	z-index: 9999;
+}
+
+.iPhone13Pro-tp{
+
+	width: 100%;
+
+	
+
+	height: 800px;
+
+	
+
+	background: url(苹果13%20强的很.png) no-repeat 0 0/100%;
+
+}
+
+
+.iPhone13Pro-tp-txt{
+
+	font-size: 64px;
+
+	text-align: center;
+
+	position: relative;
+
+	top:10%
+
+}
+
+.iPhone13Pro-js-bottom ,.iPhone13Pro-js-bottom2 ,.iPhone13Pro-js-bottom3,.iPhone13Pro-js-bottom4,.iPhone13Pro-js-bottom5,.iPhone13Pro-js-bottom5-b-tp{
+
+	width:100%;
+
+	 height: 1000px;
+
+}
+
+.iPhone13Pro-js{
+	
+	background: url(pingguo13jieshao.png) no-repeat 0 0/100%;
+
+    margin-top:30px;   
+
+}
+
+.iPhone13Pro-js-bottom{
+  margin-top: 30px;
+
+	background: url(介绍下方.png) no-repeat;
+
+}
+
+.iPhone13Pro-js-bottom2{
+	 margin-top: 30px;
+
+	background: url(介绍下方2.png) no-repeat;
+
+	
+
+}
+.iPhone13Pro-js-bottom3{
+
+   margin-top: -75px;
+	background: url(介绍下方3.png) no-repeat;
+}
+
+.iPhone13Pro-js-bottom4{
+	margin-top: -115px;
+	background: url(介绍下方4.jpg) no-repeat;
+
+}
+.iPhone13Pro-js-bottom5{
+	margin: 0 auto;
+    margin-top: 30px;
+	background: url(bottom5.jpg) no-repeat 50% 50%;
+	 }
+.iPhone13Pro-js-bottom5-txt{
+
+	font-size: 30px;
+
+	height: 50px;
+
+	width: 300px;
+
+	position: relative;
+
+	left: 1%;
+
+	
+}
+.iPhone13Pro-js-bottom5-b-txt1{
+
+	width: 900px;
+
+	height: 700px;
+
+	  font-size: 60px;
+
+}
+.iPhone13Pro-js-bottom5-b-tp{
+
+	background:url(11111.png) no-repeat ;
+}
+.iPhone13Pro-js-bottom5-b-tp1{
+
+	width: 1200px;
+
+	height: 1200px;
+
+	background: url(222.jpg) no-repeat no-repeat 50% 50%;
+
+}
+
+/* 了不得 */
+.iPhone13Pro-js-bottom5-b-txt2{
+
+	width: 1200px;
+
+	height: 600px;
+
+	background: url(了不得.png) no-repeat 50% 50%;
+
+}
+
+/* 微距图片 */
+.iPhone13Pro-js-bottom5-b-tp2{
+
+	               width: 1200px;
+
+				   background: url(微距.png) no-repeat;
+
+}
+.iPhone13Pro-js-bottom5-b-txt3{
+
+	width: 1200px;
+
+	height: 500px;
+
+	margin: 0 auto;
+
+	background: url(微距图片下方.jpg) no-repeat ;
+
+	
+}
+/* 黑盒子开始 */
+.black-box1{
+
+	height: 3300px;
+
+	background: black;
+
+}
+
+.black-box{
+
+	width: 100%;
+
+	height: 2000px;
+
+	background: black;
+}
+.black-box .kj{
+
+	width: 1200px;
+
+	height: 100%;
+
+
+}
+.black-box .kj  .hy{
+
+	width: 50%;
+
+	height: 100%;
+
+	background: url(黑夜放马过来.png) no-repeat 0 1px/600px;
+
+    float: right;
+
+}
+.black-box .kj  .hy-l{
+
+	width: 50%;
+
+	height: 100%;
+
+	background: url(黑夜左侧人物.png) no-repeat 0 0/600px ;
+
+     float: left;
+}
+.black-box .kj  .hy-2{
+
+	width: 50%;
+
+	height: 100%;
+
+	background:url(左侧人物2.png) no-repeat 0 0/600px 1200px;
+
+	clear: both;
+
+	position: relative;
+
+	bottom: 55.7%;
+
+	right: 25%;
+}
+.black-box .kj  .hy-3{
+
+    width: 50%;
+
+	height: 100%;
+
+	background: url(右侧床.png) no-repeat 0 0/600px;
+
+    position: relative;
+
+	bottom: 125%;
+
+	left: 25%
+
+}
+
+.black-box .kj  .hy-4{
+	width: 50%;
+
+	height: 100%;
+
+	background: url(最底部女人.png) no-repeat;
+
+    position: relative;
+
+	bottom:190%;
+
+	right: 15%;
+
+}
+.black-box .kj  .hy-5{
+	width: 50%;
+
+	height: 100%;
+
+	background: url(女人右侧文字.png) no-repeat;
+
+    position: relative;
+
+	bottom: 286%;
+
+	left: 30%;
+}
+
+.black-box .kj  .hy-6{
+
+	width: 50%;
+
+	height: 100%;
+
+	background: url(女人底部%20文字.png) no-repeat;
+
+    position: relative;
+
+    bottom: 353.5%;
+
+    right: 15%;
+}
