@@ -1,0 +1,101 @@
+*{
+
+		text-decoration: none;
+
+		margin: 0 auto;
+
+
+}body{
+	/* background: #ddd; */
+}
+
+nav{
+	display: flex;
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+      /* background-color: green; */
+      /* border: 2px solid #4CAF50; */
+}
+a{
+
+	font-size:20px;
+
+}
+
+a:hover{
+
+
+	text-decoration: underline;
+
+}
+
+/* 第一行导航栏 */
+
+nav{
+
+	width:100%;
+
+	height: 71px;
+
+	background:#333333;
+
+	margin: 0 auto;
+
+	}
+nav a{
+
+	
+
+	width: 6%;
+
+	height: 50px;
+
+    line-height: 70px;
+
+	color:#cacaca;
+
+ 
+
+	
+
+/* text-align: center; */
+
+
+
+}
+
+nav a:hover{
+
+	color: #ececec;
+
+}
+
+.box{
+	width:100%;
+	height:3000px;
+}
+.box .sd1,.box .sd2,.box .sd3,.box .sd4,.box .sd5,.box .sd6{
+	width: 100%;
+	height: 800px;
+}
+.box .sd1{
+	
+	background: url(sd1.jpg) no-repeat;
+}
+.box .sd2{
+	background: url(sd2.png)no-repeat;
+}
+.box .sd3{
+	background: url(sd3.png)no-repeat;
+}
+.box .sd4{
+	background: url(sd4.jpg)no-repeat;
+}
+.box .sd5{
+	background: url(sd5.png)no-repeat;
+	
+}
+.box .sd6{
+	background:url(sd6.png);
+}

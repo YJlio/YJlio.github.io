@@ -1,0 +1,489 @@
+body{
+
+	margin: 0 auto;
+
+}
+
+nav{
+
+	display: flex;
+
+	  position: -webkit-sticky; /* Safari */
+
+	  position: sticky;
+
+	  top: 0;
+
+	  /* background-color: green; */
+
+	  /* border: 2px solid #4CAF50; */
+
+	  z-index: 99999;
+
+	  width: 100%;
+}
+.MAcBookPro{
+	
+}
+.MAcBookPro-tp{
+
+	width: 100%;
+
+	
+
+	height: 820px;
+	
+
+	background:url(1.png) no-repeat  bottom;
+
+	position: relative;
+
+	top: 30px;
+
+}
+
+.MAcBookPro-tp-txt{
+
+	font-size: 64px;
+
+	text-align: center;
+
+	position: relative;
+
+	top:10%
+}
+.MAcBookPro-js-bottom ,.MAcBookPro-js-bottom2 ,.MAcBookPro-js-bottom3,.MAcBookPro-js-bottom4,.MAcBookPro-js-bottom5,.MAcBookPro-js-bottom5-b-tp{
+
+	width:100%;
+
+	 height: 850px;
+
+}
+
+.MAcBookPro-js{
+
+	background:url(2.png) no-repeat ;  
+
+}
+.MAcBookPro-js-bottom{
+
+	background:url(3.png) no-repeat;
+
+	position: relative;
+
+	bottom: 400px;
+}
+.MAcBookPro-js-bottom2{
+
+	width:100%;
+
+	background:url(4.png) no-repeat;
+
+	float: left;
+
+	position: relative;
+
+	bottom: 400px;
+	
+	
+	
+}
+.MAcBookPro-js-bottom3{
+
+width:100%;
+
+	background:url(5.png) no-repeat;
+	
+	
+}
+.MAcBookPro-js-bottom4{
+
+	width: 100%;
+
+	background:url(6.png) no-repeat;
+
+    margin-top: 30px;
+
+	
+	
+}
+.MAcBookPro-js-bottom5{
+
+	height: 600px;
+
+	/* background: url(图4.png) no-repeat 0 0/50%; */
+
+	
+
+	position: relative;
+
+	left: 60%;
+	
+	
+	 }
+
+.MAcBookPro-js-bottom5-txt{
+
+           width: 100%;
+
+		   height: 800px;
+
+		   background:url(7.png)no-repeat 0 20px;
+	
+}
+.MAcBookPro-js-bottom5-b-txt1{
+
+	width:100%;
+
+	height: 700px;
+
+	  background:url(8.png);
+
+	  position: relative;
+
+	  bottom: 600px;
+}
+.MAcBookPro-js-bottom5-b-tp{
+	width: 100%;
+
+	height:500px;
+
+	background:url(9.png);
+
+	margin-top: 20px;
+
+	position: relative;
+
+	/* right: 18%; */
+
+	bottom: 610px;
+}
+.MAcBookPro-js-bottom5-b-tp1{
+
+	width: 100%;
+
+	height: 1200px;
+
+	background:url(10.png) no-repeat no-repeat 50% 50%;
+	
+	position: relative;
+	
+	bottom: 710px;
+}
+
+
+/* 了不得 */
+.MAcBookPro-js-bottom5-b-txt2{
+	
+	width:100%;
+	
+	height: 1200px;
+	
+	background:url(11.png) no-repeat 50% 50%;
+	
+	position: relative;
+	
+	bottom: 990px;
+}
+
+/* 微距图片 */
+.MAcBookPro-js-bottom5-b-tp2{
+	
+				   width: 100%;
+	
+				   height: 1200PX;
+	
+				   background:url(12.png) no-repeat;
+    
+			
+					position: relative;
+	
+					bottom: 1150px;
+}
+.MAcBookPro-js-bottom5-b-txt3{
+	width:100%;
+	
+	height: 1000px;
+	
+
+	background:url(13.png) no-repeat;
+	
+	position: relative;
+	
+	bottom: 1440px;
+	
+	
+}
+
+/* 黑盒子开始 */
+.black-box1{
+	
+	/* height: 3000px; */
+	
+	width: 100%;
+	
+	/* background:#2e2e3a; */
+	
+	position: relative;
+	
+	bottom: 1650px;
+}
+
+.black-box{
+	
+	width: 100%;
+	
+	height: 2000px;
+	
+	background: blue;
+}
+
+
+}
+ .hy{
+	
+	width: 50%;
+	
+	height: 100%;
+	
+	/* background:url(大手指下方男人.png) ; */
+    
+	/* float: right; */
+}
+.hy-l{
+	
+	width: 100%;
+	
+	height:1200px;
+	
+	background:url(14.png)no-repeat;
+	
+	position: relative;
+	
+	bottom: 1700px;
+
+
+}
+.hy-2{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(15.png) no-repeat;
+	
+	clear: both;
+	
+	position: relative;
+	
+	bottom: 2100px;
+}
+.hy-3{
+    
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(16.png) no-repeat center;
+    
+	position: relative;
+	
+	bottom:2700px;
+}
+
+.hy-4{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(17.png) no-repeat center;
+    
+	
+	position: relative;
+	
+	bottom:3200px;
+}
+
+
+.hy-5{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(18.png) no-repeat center;
+	
+	position: relative;
+	
+	
+	bottom:3500px;
+}
+
+.hy-6{
+    
+		width: 100%;
+	
+		height: 1200px;
+	
+		background:url(19.png) no-repeat center;
+	
+		position: relative;
+	
+		bottom:3900px;
+	
+}
+.hy-7{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	
+	background:url(20.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:4500px;
+}
+
+.hy-8{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(21.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:4800px;
+}
+.hy-9{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(22.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:5200px;
+}
+
+.hy-10{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(23.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:5500px;
+}
+
+.hy-11{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(24.png) no-repeat center;
+	
+	position: relative;
+	
+	
+	bottom:5700px;
+}
+.hy-12{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(25.png) no-repeat center;
+	
+	
+	position: relative;
+	
+	bottom:6000px;
+}
+.hy-13{
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(26.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:6200px;
+}
+
+.hy-14{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(27.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:6500px;
+}
+
+.hy-15{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(28.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:6700px;
+}
+
+.hy-16{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(29.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:7000px;
+}
+
+.hy-17{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	background:url(30.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:7300px;
+}
+.hy-18{
+	
+	width: 100%;
+	
+	height: 1200px;
+	
+	
+	background:url(31.png) no-repeat center;
+	
+	position: relative;
+	
+	bottom:7400px;
+}

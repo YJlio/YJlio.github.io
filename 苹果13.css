@@ -1,0 +1,303 @@
+
+body{
+
+	margin: 0 auto;
+
+}
+
+nav{
+
+	display: flex;
+
+	  position: -webkit-sticky; /* Safari */
+
+	  position: sticky;
+
+	  top: 0;
+
+	  /* background-color: green; */
+
+	  /* border: 2px solid #4CAF50; */
+
+	  z-index: 99999;
+
+	  width: 100%;
+
+}
+
+.iPhone13{
+
+	
+
+}
+.iPhone13-tp{
+
+	width: 100%;
+
+	
+
+	height: 1050px;
+
+	
+	background:url(./苹果13.png) no-repeat;
+}
+
+.iPhone13-tp-txt{
+
+
+}
+.iPhone13-js-bottom ,.iPhone13-js-bottom2 ,.iPhone13-js-bottom3,.iPhone13-js-bottom4,.iPhone13-js-bottom5,.iPhone13-js-bottom5-b-tp{
+
+	width:100%;
+
+	 height: 850px;
+
+}
+
+.iPhone13-js{
+
+	background:url(苹果13下方文字1.png) no-repeat ;
+
+    margin-top: -20px;   
+
+}
+
+.iPhone13-js-bottom{
+
+	background:url(苹果13下方文字2.png) no-repeat 0 bottom;
+
+	position: relative;
+
+	bottom: 21px;
+
+}
+.iPhone13-js-bottom2{
+
+	width:50%;
+     height: 1000px;
+	background:url(图1.png) no-repeat 0/100% 100%;
+
+	float: left;
+   
+    /* margin-top: 150px; */
+	
+	
+	
+}
+.iPhone13-js-bottom3{
+
+width:50%;
+ height: 1000px;
+	background: url(图2.png) no-repeat 0 0/100% 100%;
+
+	border-radius: 50px;
+
+	float:right ;
+
+	/* left: 50%; */
+	
+}
+.iPhone13-js-bottom4{
+}
+.iPhone13-js-bottom5{
+
+	height: 600px;
+	/* background: url(图4.png) no-repeat 0 0/50%; */
+
+	
+
+	position: relative;
+
+	left: 60%;
+	
+	
+	 }
+.iPhone13-js-bottom5-txt{
+
+           width: 100%;
+
+		   height: 800px;
+            margin-top: 200px;
+		   background:url(相机大升级.png) no-repeat;
+
+	
+}
+.iPhone13-js-bottom5-b-txt1{
+
+	width:100%;
+
+	height: 700px;
+
+	  background: url(全广角下方.png);
+
+	  position: relative;
+
+	  bottom: 550px;
+
+}
+.iPhone13-js-bottom5-b-tp{
+
+	width: 100%;
+
+	height:800px;
+
+	background:url(相机大升级下方%20全广角.png);
+
+	margin-top: 30px;
+
+	position: relative;
+
+	/* right: 18%; */
+
+	bottom: 550px;
+}
+.iPhone13-js-bottom5-b-tp1{
+
+	width: 1200px;
+
+	height: 1200px;
+
+	background:url(电影效果.png) no-repeat no-repeat 50% 50%;
+
+    position: relative;
+	
+	bottom: 550px;
+}
+
+/* 了不得 */
+.iPhone13-js-bottom5-b-txt2{
+	
+	width: 1200px;
+	
+	height: 1200px;
+	
+	background:url(电影效果2.png) no-repeat 50% 50%;
+	
+	position: relative;
+	
+	bottom: 950px;
+}
+
+/* 微距图片 */
+.iPhone13-js-bottom5-b-tp2{
+	
+				   width: 100%;
+	
+				   height: 800PX;
+	
+				   background:url(电影效果3.png) no-repeat;
+    
+			
+
+position: relative;
+
+	bottom: 950px;
+
+}
+
+.iPhone13-js-bottom5-b-txt3{
+
+	width:100%;
+
+	height: 1000px;
+
+	margin: 0 auto;
+
+	background:url(一出手就是一个大手指.png);
+
+	position: relative;
+
+	bottom: 950px;
+
+	
+
+}
+/* 黑盒子开始 */
+.black-box1{
+
+	height: 3000px;
+
+	background:#2e2e3a;
+
+	position: relative;
+
+	bottom: 950px;
+
+}
+.black-box{
+	
+	width: 100%;
+	
+	height: 2000px;
+	
+	background: blue;
+}
+
+
+
+}
+.black-box1  .hy{
+	
+	width: 50%;
+	
+	height: 100%;
+	
+	/* background:url(大手指下方男人.png) ; */
+    /* float: right; */
+}
+.black-box1 .hy-l{
+	
+	width: 100%;
+	
+	height:100%;
+	
+	background:url(大手指下方男人.png)no-repeat center 0;
+
+
+}
+.black-box1 .hy-2{
+	
+	width: 600px;
+	
+	height: 100%;
+	
+	background:url(女人2.png) no-repeat 0 0/50%;
+	
+	clear: both;
+	
+	position: relative;
+	
+	bottom: 30%;
+	
+	left: 35%;
+}
+.black-box1 .hy-3{
+    
+	width: 100%;
+	
+	height: 100%;
+	
+	background:url(男人.png) no-repeat center;
+    
+	position: relative;
+	
+	bottom: 205%;
+}
+
+.black-box1 .hy-4{
+	
+	width: 600px;
+	
+	height: 500px;
+	
+	background:url(女人.png) no-repeat center;
+    
+	position: relative;
+	
+	bottom:240%;
+	
+	right: 15%;
+}
+
+
+

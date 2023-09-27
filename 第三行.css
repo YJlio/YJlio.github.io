@@ -1,0 +1,409 @@
+/* 所有好礼下方5个超链接样式 */
+
+nav{
+	position: -webkit-sticky;
+	
+	position: sticky;
+	
+	top: 0;
+	
+	/* background-color: green; */
+	
+	/* border: 2px solid #4CAF50; */
+	
+	display: flex;
+}
+
+/* 首行nav三个手机图片 */
+body{
+	
+	background: #f5f5f7;
+}
+/* 通用样式开始 */
+/* 通用样式结束 */
+.suoyouhaoli-nav{
+	
+	height: 460px;
+	
+	width: 1250px; 
+	
+	background: #edf6ff url(所有好礼%20%20%20%20%20锚点链接图片.png) no-repeat 0 0/100% 100%;
+	
+	border-radius: 50px;
+	
+	position: relative;
+	
+	top: 150px;
+	
+	right: 25%;
+}
+
+/* 三个手机下方的盒子 */
+.suoyouhaoli-nav-bottom{
+	
+	height: 1500px;
+
+	width: 1250px;
+
+	background:#f9faff ;
+
+	border-radius: 50px;
+
+	position: relative;
+
+	margin-top: 25%;
+
+	right: 25%;
+
+}
+
+/* 三个手机下方的盒子中第一行的右侧手机 */
+.suoyouhaoli-nav-bottom-sjtp{
+
+	height: 365px;
+
+	width: 265px;
+
+	background:url(./第二行css样式中苹果手机图片.png) no-repeat 0 0/100% 100%;
+
+    position: relative;
+
+	left: 25%;
+
+	bottom: 14%;
+
+}
+.suoyouhaoli-nav-bottom-sjtp-s{
+
+	width: 300px;
+
+	height: 50px;
+
+	position: relative;
+
+	left: 25%;
+
+	bottom:5%;
+}
+
+/* 让美妙的每一刻都被留住文字 */
+.suoyouhaoli-nav-bottom .suoyouhaoli-nav-bottom-txt{
+
+	    font-size: 64px;
+
+		/* 为文本元素提供渐变色 */
+
+		background-image: -webkit-linear-gradient(left, #0097e2, #55aa7f);
+
+		 -webkit-background-clip: text; 
+
+		 -webkit-text-fill-color: transparent;
+
+		position: relative;
+
+		left: 10%;
+
+		 top:10%;
+}
+
+.suoyouhaoli-nav-bottom-txt1{
+
+	  font-size: 25px;
+
+	  position: relative;
+
+	  left: 10%;
+
+	  top:13%;
+}
+
+
+.suoyouhaoli-nav-bottom-txt2{
+
+	font-size: 30px;
+
+	position: relative;
+
+	left: 10%;
+
+	top:15%;
+}
+
+.suoyouhaoli-nav-bottom-txt3{
+
+	width: 150px;
+
+	height: 100px;
+
+}
+
+/* ---------------------------------------------------------------- */
+.suoyouhaoli-nav-bottom-ips{
+
+	width: 100%;
+
+	height: 450px;
+
+	position: relative;
+
+	top:2%;
+
+	margin-left: 5%;
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip13{
+
+	height: 100%;
+
+	width: 35%;
+
+	background: url(苹果13%20Pro.png)no-repeat;
+
+	float: left;
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip13-txt{
+
+	color: #eee689;
+
+	font-weight: bolder;
+
+	position: relative;
+
+	right: 26%;
+
+	top: 90%;
+}
+
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip13-txt1{
+
+	font-size: 30px;
+
+	position: relative;
+
+	right: 31%;
+
+	top: 93%;
+}
+
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip13-txt2{
+
+	font-size: 20px;
+
+	position: relative;
+
+	right: 30%;
+
+	top: 98%;
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ipse2{
+
+	height: 100%;
+
+	width: 35%;
+
+	background: url(苹果SE2.png) no-repeat;
+
+	position: relative;
+
+	bottom: 10%;
+
+	float: left;
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ipse2-txt{
+
+font-size: 30px;
+
+	position: relative;
+
+    right: 30%;
+
+    top: 80%;
+
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ipse2-txt1{
+
+	font-size: 20px;
+
+	position: relative;
+
+	right: 30%;
+
+	top: 85%;
+
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip12{
+
+	width: 30%;
+
+	height: 100%;
+
+	background: url(苹果12.png) no-repeat;
+
+	position: relative;
+
+	bottom: 35%;
+
+	float: left;
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip12-txt{
+
+	font-size: 30px;
+
+	position: relative;
+
+    left: 75%;
+
+    bottom: 35%;
+
+}
+.suoyouhaoli-nav-bottom-ips .suoyouhaoli-nav-bottom-ip12-txt1{
+	font-size: 20px;
+
+	position: relative;
+
+	left: 75%;
+
+	bottom: 30%;
+
+}
+/* ---------------------------------------------------------------- */
+/* <!-- 下方为防止丢弃手链的盒子 --> */
+.MagSafe{
+	width: 1250px;
+
+	height: 1800px;
+
+	background: #f4f7ff;
+
+    margin-left: -190px;
+
+	margin-top: 20px;
+
+	border-radius: 50px;
+}
+/* <!-- 下方为防止丢弃手链的盒子 --> */
+.MagSafe .MagSafe-l1{
+
+	width: 600px;
+
+	height: 800px;
+
+	background:#7897ab url(右侧靠板.jpg) no-repeat 50% 100%/50% 50%;
+
+	border-radius: 50px;
+
+	float: right;
+
+}
+.MagSafe-MagSafe-l1-txt{
+
+	font-size: 30px;
+
+	font-weight: bolder;
+
+	color: #f7f7f7;
+
+	position: relative;
+
+	left: 10%;
+
+	top: 8%;
+}
+.MagSafe-MagSafe-l1-txt1{
+
+	font-size: 40px;
+
+	font-weight: bolder;
+
+	color: #f7f7f7;
+
+	position: relative;
+
+	left: 10%;
+
+	top: 10%;
+}
+/* 右侧第二个盒子  钥匙链 */
+.MagSafe .MagSafe-r1{
+
+	width: 600px;
+
+	height: 800px;
+
+	background: #edeffe url(右边第二个.jpg) no-repeat 50% 100%/80% 80%;
+
+	border-radius: 50px;
+
+	margin-top: 50px;
+
+    float: right;
+
+}
+/* 左侧第一个6个手机 */
+.MagSafe .MagSafe-l2{
+
+	width: 600px;
+
+	height: 800px;
+
+	background:#eaf3fc url(左侧第一个6个手机.jpg) no-repeat 50% 50%/80% 80%;
+
+	border-radius: 50px;
+
+	float: left;
+}
+.MagSafe .MagSafe-r2{
+
+	width: 600px;
+
+	height: 800px;
+
+	background: #8f8fad url(左边第二个马.jpg) no-repeat 50% 0/50% 50%;
+
+	border-radius: 50px;
+
+	margin-top: 50px;
+
+	float: left;
+
+}
+
+.MagSafe-MagSafe-r2-txt{
+
+	font-size: 30px;
+
+	font-weight: bolder;
+
+	color: #f7f7f7;
+
+    position: relative;
+
+    top: 58%;
+
+    left: 10%;
+}
+.MagSafe-MagSafe-r2-txt1{
+
+	font-size: 40px;
+
+	font-weight: bolder;
+
+	color: #f7f7f7;
+
+	position: relative;
+
+	top: 60%;
+
+	left: 10%;
+}
+/* <!-- 上方为防止丢弃手链的盒子 --> */
+
+
+
+dl{
+	display: none;
+	}
+
+:target{
+
+	display:block;
+}

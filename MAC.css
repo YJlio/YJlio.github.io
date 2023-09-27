@@ -1,0 +1,119 @@
+*{
+
+		text-decoration: none;
+
+		margin: 0 auto;
+
+
+}body{
+	/* background: #ddd; */
+}
+
+nav{
+	display: flex;
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+      /* background-color: green; */
+      /* border: 2px solid #4CAF50; */
+}
+a{
+
+	font-size:20px;
+
+}
+
+a:hover{
+
+
+	text-decoration: underline;
+
+}
+
+/* 第一行导航栏 */
+
+nav{
+
+	width:100%;
+
+	height: 71px;
+
+	background:#333333;
+
+	margin: 0 auto;
+
+	}
+nav a{
+
+	
+
+	width: 6%;
+
+	height: 50px;
+
+    line-height: 70px;
+
+	color:#cacaca;
+
+ 
+
+	
+
+/* text-align: center; */
+
+
+
+}
+
+nav a:hover{
+
+	color: #ececec;
+
+}
+
+.box{
+	width:100%;
+	height:3000px;
+}
+.box .MAC1,.box .MAC2,.box .MAC3,.box .MAC-bottom,.box .MAC4,.box .MAC5,.box .MAC10,.box .MAC11,.box .MAC6,.box .MAC7,.box .MAC8,.box .MAC9{
+	width: 100%;
+	height: 1000px;
+}
+.box .MAC1{
+	
+	background:url(MAC1.jpg) no-repeat;
+}
+.box .MAC2{
+	background:url(MAC2.png) no-repeat;
+}
+.box .MAC3{
+	background:url(MAC3.png) no-repeat;
+}
+.box .MAC4{
+	background:url(MAC4.png) no-repeat;
+}
+.box .MAC5{
+	background:url(MAC5.png) no-repeat;
+	
+}
+.box .MAC6{
+	background:url(MAC6.png) no-repeat;
+}
+.box .MAC7{
+	background: url(MAC7.png) no-repeat;
+}
+.box .MAC8{
+	background:url(MAC8.png) no-repeat;
+}
+.box .MAC9{
+	background:url(MAC9.png) no-repeat;
+}
+.box .MAC10{
+	background:url(MAC10.png) no-repeat;
+}
+.box .MAC11{
+	background:url(MAC11.png) no-repeat;
+}
+.box .MAC-bottom{
+	background: url(MAC%20bottom.png) no-repeat;
+}

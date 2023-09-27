@@ -1,0 +1,279 @@
+*{
+
+		text-decoration: none;
+
+		margin: 0 auto;
+
+
+}
+nav{
+	display: flex;
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+      /* background-color: green; */
+      /* border: 2px solid #4CAF50; */
+}
+a{
+
+	font-size:20px;
+
+}
+
+a:hover{
+
+
+	text-decoration: underline;
+
+}
+
+/* 第一行导航栏 */
+
+nav{
+
+	width:100%;
+
+	height: 71px;
+
+	background:#333333;
+
+	margin: 0 auto;
+
+	}
+nav a{
+
+	
+
+	width: 6%;
+
+	height: 50px;
+
+    line-height: 70px;
+
+	color:#cacaca;
+
+    float: left;
+
+	
+
+/* text-align: center; */
+
+
+
+}
+
+nav a:hover{
+
+	color: #ececec;
+
+}
+
+/* 第一行导航栏结束 */
+
+
+
+/* 第二个导航栏 */
+
+
+
+#nav-two{
+
+	width: 100%;
+
+	height: 75px;
+
+	background: #e80000;
+
+}	
+
+#nav-two #nav-two-txt{
+
+	/* 提早动手为节日选购称心好礼 */
+
+	color: #ECECEC;
+
+	font-size: 24px;
+
+
+	text-align: center;
+
+	line-height: 70px;
+
+}
+
+
+/* 第二个导航栏结束 */
+
+.iphon13Pro,.iphon13,.MAcBookPro,.AirPods,.WATCH,.HomePodmini,.IPadmini,.Airtag{
+	height: 900px;
+}
+.iphon13Pro,.MAcBookPro,.AirPods,.WATCH,.HomePodmini,.IPadmini{
+	width: 860px;
+}
+.MAcBookPro,.AirPods,.WATCH,.HomePodmini,.IPadmini{
+	float: left;
+	
+}
+
+ /* <!-- 让节日快乐每一个人 --> */
+
+ .iphon13Pro{
+
+	 width: 1901px;
+
+	 
+
+	 /* background: url(苹果13Pro.png) no-repeat 0 0/100% 100%; */
+
+ }
+
+ .iphon13Pro .iphon13Pro-txt{
+
+	 text-align: center;
+
+	 position: relative;
+
+	 top:35%; 
+
+	 line-height: 20px;
+
+s
+
+ }
+
+ 
+
+
+
+.iphon13{
+
+	 width: 1901px;
+
+	 
+
+	 /* background: url(苹果13.png) no-repeat 0 0/100% 100%; */
+
+ }
+
+ .iphon13 .iphon13-txt{
+
+	 text-align: center;
+
+	 position: relative;
+
+	 top:30%;
+
+ } 
+
+.MAcBookPro{
+
+	
+
+	
+
+	/* background: url(MAcBook%20Pro.png) no-repeat 0 0/100% 100%; */
+
+	margin-top:50px;
+
+	
+
+ }
+
+ 
+
+ .MAcBookPro .MAcBookPro-txt{
+
+	 text-align: center;
+
+	 position: relative;
+
+	 top:30%;
+
+	 left: 5%;
+
+ }
+
+
+ 
+
+ 
+
+ .AirPods{
+
+	 
+
+	 
+
+
+	 /* background:url(AirPods.png) no-repeat 0 0/100% 100%; */
+
+	margin-top: 50px;
+
+	 
+
+  }
+
+  .AirPods .AirPods-txt{
+
+	  text-align: center;
+
+	  position: relative;
+
+
+	  top:70%;
+
+  }
+
+  .WATCH{
+
+	  
+	  
+	  /* background: url(WATCH.png) no-repeat 0 0/% 100%; */
+	  
+  }
+  .WATCH .WATCH-txt{
+	  text-align: center;
+	  position: relative;
+	  top:28%;
+	  right:3%;
+  }
+  
+  .HomePodmini{
+	  
+	  
+	  /* background: url(HomePodmini.png) no-repeat 0 0/100% 100%; */
+      float: right;
+  }
+  .HomePodmini .HomePodmini-txt{
+	  text-align: center;
+	  position: relative;
+	  top:20%;
+  }
+  
+  .IPadmini{
+	  
+	  
+	  /* background: url(IPadmini.png) no-repeat 0 0/90% 80%; */
+	  
+  }
+  .IPadmini .IPadmini-txt{
+	  text-align: center;
+	  position: relative;
+	  top:20%;
+	  right: 5%;
+  }
+  
+  
+  .Airtag{
+  	  
+  	  width: 800px;
+  	  /* background:url(Airtag.png) no-repeat 0 0/100% 80%; */
+  	  float: right;
+  }
+  .Airtag  .Airtag-txt{
+	  text-align: center;
+	  position: relative;
+	  top:20%;
+  }
+ 
+ 
